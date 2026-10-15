@@ -1,0 +1,24 @@
+{
+    "name": "GameFrameX.OperationClipboard.WechatMiniGame.Runtime",
+    "rootNamespace": "GameFrameX.OperationClipboard.WechatMiniGame.Runtime",
+    "references": [
+        "GameFrameX.Runtime",
+        "GameFrameX.OperationClipboard.Runtime",
+        "Wx"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.qq.weixin.minigame",
+            "expression": "",
+            "define": "ENABLE_WECHAT_MINI_GAME_OPERATIONCLIPBOARD"
+        }
+    ],
+    "noEngineReferences": false
+}
